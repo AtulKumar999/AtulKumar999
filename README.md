@@ -39,9 +39,9 @@ foundation in programming and software development.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Atul Kumar](www.linkedin.com/in/atul-kumar-745206332)
-- 📧 Email:atulkumar78370@gmail.com
-- 🐙 GitHub: [GitHub](YOUR_GITHUB_URL)
+- 💼 LinkedIn: www.linkedin.com/in/atul-kumar-745206332
+- 📧 Email:  atulkumar78370@gmail.com
+- 🐙 GitHub: https://github.com/AtulKumar999
 
 ## 📂 Featured Projects
 
@@ -60,6 +60,6 @@ Power BI dashboard for analyzing attendance-related insights.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtulKumar999&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?AtulKumar999&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKumar999&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?AtulKumar999&layout=compact)
