@@ -39,9 +39,9 @@ foundation in programming and software development.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/atul-kumar-745206332
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/atul-kumar-745206332)
 - 📧 Email:  atulkumar78370@gmail.com
-- 🐙 GitHub: https://github.com/AtulKumar999
+- 🐙 GitHub:[GitHub](https://github.com/AtulKumar999)
 
 ## 📂 Featured Projects
 
