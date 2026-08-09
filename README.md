@@ -1,4 +1,4 @@
-### ✨About Me
+################## ✨About Me
 
 Hi, I'm Atul Kumar, a BCA student specializing in Artificial Intelligence,
 with a strong interest in Data Science, Machine Learning, Data Analytics,
