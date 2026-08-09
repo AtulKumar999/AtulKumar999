@@ -37,5 +37,29 @@ foundation in programming and software development.
 - Developing interactive Power BI dashboards
 - Improving problem-solving and analytical skills
 
-> **Learn → Build → Analyze → Improve 🚀**GitHub profile.
+## 📫 Connect With Me
 
+- 💼 LinkedIn: [Atul Kumar](www.linkedin.com/in/atul-kumar-745206332)
+- 📧 Email:atulkumar78370@gmail.com
+- 🐙 GitHub: [GitHub](YOUR_GITHUB_URL)
+
+## 📂 Featured Projects
+
+🔹 **HR Analytics Dashboard**  
+Power BI dashboard for analyzing employee attrition and HR metrics.
+
+🔹 **Customer Churn Analysis**  
+Data analysis project focused on understanding customer churn patterns.
+
+🔹 **Urban Mobility & Public Safety Analysis**  
+Data-driven project analyzing mobility and public safety patterns.
+
+🔹 **Attendance Analytics Dashboard**  
+Power BI dashboard for analyzing attendance-related insights.
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtulKumar999&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKumar999&layout=compact)
