@@ -57,15 +57,10 @@ Power BI dashboard for analyzing attendance-related insights.
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=AtulKumar999&show_icons=true&theme=dark" height="180" />
+  <img src="https://streak-stats.demolab.com?user=AtulKumar999&theme=dark" height="180" />
+</p>
 
-  <img src="https://github-stats-extended.vercel.app/api?username=AtulKumar999&show_icons=true&theme=dark" />
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=AtulKumar999&theme=dark" />
-
-  <br><br>
-
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AtulKumar999&layout=compact&theme=dark" />
-
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AtulKumar999&layout=compact&theme=dark" height="180" />
 </p>
