@@ -13,16 +13,13 @@ Currently, I am strengthening my skills in Python, SQL, Power BI, Excel,
 Data Visualization, and Machine Learning while also building a strong
 foundation in programming and software development.
 
-### 💻 Languages & Technologies
+## 🛠️ Skills & Technologies
 
-- 🐍 Python
-- ☕ Java
-- 💻 C
-- 🌐 HTML, CSS & JavaScript
-- 🗄️ SQL & DBMS
-- 📊 Power BI & Excel
-- 📈 Data Visualization
-- 🤖 Machine Learning & AI
+- **Programming:** Python, Java, C, JavaScript
+- **Web Development:** HTML, CSS
+- **Data & Analytics:** SQL, Excel, Power BI, Data Visualization
+- **Database:** DBMS
+- **AI & ML:** Machine Learning, Artificial Intelligence
 
 ### 🌐 Languages
 
