@@ -46,8 +46,10 @@ foundation in programming and software development.
 🔹 **HR Analytics Dashboard**  
 Power BI dashboard for analyzing employee attrition and HR metrics.
 
-🔹 **Customer Churn Analysis**  
-Data analysis project focused on understanding customer churn patterns.
+🔹 **Student Academic Performance
+Analysis**  
+ Analyze student marks, attendance, and study habits to
+explore factors associated with academic performance.
 
 🔹 **Urban Mobility & Public Safety Analysis**  
 Data-driven project analyzing mobility and public safety patterns.
