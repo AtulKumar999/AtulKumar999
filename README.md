@@ -46,8 +46,7 @@ foundation in programming and software development.
 🔹 **HR Analytics Dashboard**  
 Power BI dashboard for analyzing employee attrition and HR metrics.
 
-🔹 **Student Academic Performance
-Analysis**  
+🔹 **Student Performance Factor**  
  Analyze student marks, attendance, and study habits to
 explore factors associated with academic performance.
 
